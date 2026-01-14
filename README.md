@@ -1,4 +1,4 @@
-# FarmSense-All: The Complete Agricultural Operating System
+# FarmSense-B: The Complete Agricultural Operating System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://github.com/bxthre3/FarmSense-All/actions/workflows/ci.yml/badge.svg)](https://github.com/bxthre3/FarmSense-All)
