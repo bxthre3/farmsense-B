@@ -1,20 +1,7 @@
-# FarmSense-B: The Complete Agricultural Operating System
+# FarmSense: The Complete Agricultural Operating System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://github.com/bxthre3/FarmSense-All/actions/workflows/ci.yml/badge.svg)](https://github.com/bxthre3/FarmSense-All)
-
-**FarmSense-All** is the definitive, production-ready consolidation of the FarmSense platform—integrating advanced UI/UX, robust backend logic, deterministic Python decision engines, and comprehensive strategic documentation into a single, unified agricultural operating system.
-
-## 🎯 What is FarmSense-All?
-
-FarmSense-All represents the **complete vision** of deterministic farming automation. It consolidates four major versions into one cohesive system:
-
-- **farmsense-full**: Advanced UI with Robotics, Map View, Idle Mode, and 11 TypeScript domain engines
-- **farmsense**: Production-ready backend with decision engines, irrigation control, real-time services, and comprehensive deployment documentation
-- **FarmSense-Alpha**: Strategic documentation, IP strategy, 332+ metric dictionary, and Keyless API mapping
-- **Current Session**: Python deterministic engine (11 domains), subprocess integration, and full auditability
-
-The result is a **complete "Agricultural Operating System"** with deterministic, auditable decision-making, 11 operational domains covering the entire crop lifecycle, advanced spatial intelligence and robotics fleet management, and full explainability and compliance-ready audit trails.
 
 ## 🚀 Key Features
 
